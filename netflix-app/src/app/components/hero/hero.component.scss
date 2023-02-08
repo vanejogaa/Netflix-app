@@ -1,0 +1,54 @@
+h3 {
+    color: white;
+    margin-top: 8%;
+}
+ul {
+    list-style: none;
+}
+.container {
+    margin-top: 2%;
+    display: flex;
+    justify-content: space-between;
+    width: 0%;
+    height: 20%;
+    transition: transform .2s;
+}
+#number1:hover {
+    transform: scale(1.5);
+}
+#number2:hover {
+    transform: scale(1.5);
+}
+#number3:hover {
+    transform: scale(1.5);
+}
+#number4:hover {
+    transform: scale(1.5);
+}
+#number5:hover {
+    transform: scale(1.5);
+}
+#number6:hover {
+    transform: scale(1.5);
+}
+#number7:hover {
+    transform: scale(1.5);
+}
+#number8:hover {
+    transform: scale(1.5);
+}
+#number9:hover {
+    transform: scale(1.5);
+}
+#number10:hover {
+    transform: scale(1.5);
+}
+div img {
+    width: 120px;
+    display: flex;
+    justify-content: space-between;
+}
+div ul {
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,16 @@
+.contenedor {
+    margin-top: 2%;
+    display: flex;
+    justify-content: space-between;
+    width: 0%;
+    height: 20%;
+    transition: transform .2s;
+}
+
+li:hover img {
+    opacity: .4;
+    list-style: none;
+}
+.films {
+    display: flex;
+}
